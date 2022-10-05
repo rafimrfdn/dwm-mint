@@ -10,3 +10,7 @@ And here is my cool DWN Setup on Linux Mint setup for Thinkpad P50.
 Setup info just the same with [POPOs dwm repo](https://github.com/rafimrfdn/dwm-popos). 
 
 The difference is in the function whre I put different Patches and newest version.
+
+After installed, dont forget to copy or move the `dwm-autostart.sh` file to `.local/bin/`.
+
+Thats all.
